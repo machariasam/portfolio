@@ -1,3 +1,3 @@
 # portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/machariasam/portfolio)
+[Visit to view my portfolio ⚡️](https://portfolio-alpha-kohl-18.vercel.app/)
