@@ -1,3 +1,3 @@
 # portfolio
 
-[Visit to view my portfolio ⚡️](https://portfolio-alpha-kohl-18.vercel.app/)
+[Visit to view my portfolio ⚡️](https://samuel-macharia.vercel.app/)
