@@ -29,7 +29,7 @@ const Skills: React.FC = () => {
 
   const skills = [
     { icon: Code, title: 'Programming', skills: ['Python', 'Bash', 'PowerShell'] },
-    { icon: Server, title: 'Infrastructure', skills: ['AWS', 'Azure', 'Google Cloud'] },
+    { icon: Server, title: 'Infrastructure', skills: ['AWS', 'Azure', 'Google Cloud', 'OpenStack'] },
     { icon: Shield, title: 'Security', skills: ['Firewall Management', 'SSL/TLS', 'System Hardening'] },
   ];
 
