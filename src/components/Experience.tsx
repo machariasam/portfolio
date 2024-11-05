@@ -38,6 +38,10 @@ const Experience: React.FC = () => {
         'Deployed and managed educational roaming Wi-Fi (eduroam) across institutions',
         'Implemented eduroam integrations with various databases and directories',
         'Managed internal Microsoft ERP cluster and assisted with cloud infrastructure',
+        'Deployed Learning Management Systems (LMS) using Moodle and Canvas',
+        'Setup and Managed virtualization instances using KVM, VMWare and Proxmox',
+        'Setup and Managed OpenStack instance for Internal use',
+        'Setup and Managed a domain hosting and billing platform using WHCMS and webhosting on cPanel and Virtualmin'
       ],
     },
     {
